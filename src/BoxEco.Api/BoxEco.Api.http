@@ -1,0 +1,6 @@
+@BoxEco.Api_HostAddress = http://localhost:5014
+
+GET {{BoxEco.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
